@@ -1,5 +1,9 @@
 # Xcri4j
 
+## Archived
+
+This project is no longer needed as a standalone project as it's codebase has been copied into the Sakai codebase.
+
 A Java library for parsing and generating XCRI documents
 
 http://www.xcri.org/wiki/index.php/XCRI_CAP_1.2
